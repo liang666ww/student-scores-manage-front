@@ -1,2 +1,2 @@
-# student-scores-manage-front
-HNUST创业实训学生成绩管理系统前端
+# webSocket-chatting-front
+HNUST创业实训仿QQ聊天室系统前端
